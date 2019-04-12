@@ -2,7 +2,6 @@
 #include<stdio.h>
 int main()
 {
-char s;
-scanf("%s",s);
-printf("%s Hello",s);
+	printf ("Mellie modified your project\n");
+	return 0;
 }
