@@ -2,5 +2,7 @@
 #include<stdio.h>
 int main()
 {
-printf("Hello");
+char s;
+scanf("%s",s);
+printf("%s Hello",s);
 }
